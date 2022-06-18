@@ -5,7 +5,9 @@ Net Core Based Javascript Project I Developed
 # Get function use
 
  getir("api/js/settings").then(function (i) {
+ 
   var title = i.title; 
+  
  })
 
 
